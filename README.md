@@ -1,7 +1,7 @@
 #Auto Solarized
 
-This will change your vim colour scheme to either solarized dark or light
-depending on the time of day.
+Like f.lux for vim. Auto solarized will change your vim colour scheme to either 
+solarized dark or light depending on the time of day.
 
     { 07:00 < time < 17:00 } = light
 
