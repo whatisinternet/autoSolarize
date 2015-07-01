@@ -4,7 +4,7 @@ endif
 let g:loaded_autoSolarized_autoload = 1
 
 function! autoSolarized#version()
-  return '0.0.3'
+  return '0.0.4'
 endfunction
 
-call AutoSetSolarized()
+call autoSolarized#AutoSetSolarized()
