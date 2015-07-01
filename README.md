@@ -14,3 +14,4 @@ Pull requests welcome!
 Add to your .vimrc to map leader sc to update your colours.
 
     noremap <Leader>sc :call AutoSetSolarized()<CR>
+    autocmd VimEnter * call AutoSetSolarized()
