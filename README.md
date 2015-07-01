@@ -3,14 +3,19 @@
 This will change your vim colour scheme to either solarized dark or light
 depending on the time of day.
 
-{ 07:00 < time < 17:00 } = light
-{ 07:00 > time > 17:00 } = dark
+    { 07:00 < time < 17:00 } = light
+
+    { 07:00 > time > 17:00 } = dark
 
 Pull requests welcome!
 
+## Dependencies
+
+This relies on [Solarized VIM](http://ethanschoonover.com/solarized/vim-colors-solarized)
+
 ## Installation
 
-  Either clone to .vim/bundles/ or use pathogen.
+Either clone to .vim/bundles/ or use pathogen.
 
 ## Usage
 
