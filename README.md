@@ -3,6 +3,9 @@
 This will change your vim colour scheme to either solarized dark or light
 depending on the time of day.
 
+{ 07:00 < time < 17:00 } = light
+{ 07:00 > time > 17:00 } = dark
+
 Pull requests welcome!
 
 ## Installation
