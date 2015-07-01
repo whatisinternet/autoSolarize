@@ -3,7 +3,7 @@
 
 function! AutoSetSolarized()"{{{
  let current_time = strftime("%H:%M")
- if current_time < "17:00"
+ if current_time > "17:00"
    set background=dark
    colorscheme solarized
  else
