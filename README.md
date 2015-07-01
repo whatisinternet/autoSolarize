@@ -7,4 +7,10 @@ Pull requests welcome!
 
 ## Installation
 
- TODO
+  Either clone to .vim/bundles/ or use pathogen.
+
+## Usage
+
+Add to your .vimrc to map leader sc to update your colours.
+
+    noremap <Leader>sc :call AutoSetSolarized()<CR>
