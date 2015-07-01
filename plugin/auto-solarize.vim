@@ -1,7 +1,7 @@
 " Auto Solarize
 " Maintainer Josh Teeter <joshteeter@gmail.com>
 
-function! s:SetBackgroundColour()"{{{
+function! SetBackgroundColour()"{{{
  let current_time = strftime("%H:%M")
  if current_time < "17:00"
    set background=dark
