@@ -1,4 +1,4 @@
-#Solarizer
+#Auto Solarized
 
 This will change your vim colour scheme to either solarized dark or light
 depending on the time of day.
